@@ -1,4 +1,4 @@
-![Screenshot of Mixery (in development version)](../img/mixery_development_private_0001.png)
+![Screenshot of Mixery (in development version)](/img/mixery_development_private_0001.png)
 
 # Welcome to Mixery OSS organization!
 Here lies all repositories related to Mixery Digital Audio Workspace. This includes the DAW itself, container format, some random UI framework thing and more.
